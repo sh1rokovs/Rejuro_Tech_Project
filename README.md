@@ -1,16 +1,47 @@
-# Rejuro technical project
+# Rejuro_project
+---
+Description: New web-platform with any different instruments
+---
+Feautures tools:<br> 
+1. Task manager<br>
+2. Deskboard<br>
+3. Notifications<br>
+---
+<h1 align="center">Frontend</h1>
+Technologies: Vue.js, Bootstrap <br>
 
-Frontend:
-  Technologies: React.js.<br>
-  Host: localhost:3000<br>
-  Start:<br>
+**Run front:** 
+
 ```
-npm start
+npm run serve
 ```
-Backend:
-  Technologies: Node.js.<br>
-  Host: localhost:8080<br>
-  Start:<br>
+
+**Address:**
+
 ```
-npm server
+localhost:8080/
+```
+
+<h1 align="center">Backend</h1>
+Technologies: Node.js, Vanilla JavaScript, Express
+
+**Run back:**
+
+```
+npm run dev
+```
+
+**Address:**
+
+```
+localhost:3000/
+```
+
+<h1 align="center">Databases</h1>
+Technologies: MongoDB, ?Postgresql?
+
+**Address:**
+
+```
+localhost:2717/
 ```
