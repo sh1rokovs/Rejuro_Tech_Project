@@ -41,5 +41,5 @@ Technologies: Postgresql
 **Address:**
 
 ```
-localhost:2717/
+localhost:5432/
 ```
